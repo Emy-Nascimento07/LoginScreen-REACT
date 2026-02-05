@@ -11,7 +11,7 @@ const LoginScreen = () => {
   return (
     <View style = {Styles.body}>
     <View style = {Styles.container}> {/*substituição da "div"*/}
-      <Text style = {Styles.title}>Login</Text>
+      <Text style = {Styles.title}>Login Novo</Text>
       <View style = {Styles.inputGroup}>
         <Text style = {Styles.label}>Usuário:</Text>
         <TextInput style = {Styles.input} placeholder="Digite seu usuário"/>
